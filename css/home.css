@@ -1,0 +1,73 @@
+/*    header section  */
+
+header h1{
+    font-size: 50px;
+	color:#666;
+	text-shadow:10px 5px 10px #3399ff
+    
+}
+header{
+	width: 100%;
+	height: auto;
+	position: fixed;
+}
+#hea{
+    background-color: #FFF;
+    border-bottom: 1px solid #F5F5F5;
+}
+
+/* banner 
+.banner{
+	margin-top: 280px;
+	background: url(../img/trah2.jpg) no-repeat;
+	width:857px;
+	height: 324px;
+	color: #6666cc;
+}
+nav li{
+	display:inline;
+	padding-right: 10px;
+	float:right;
+
+}
+li a{
+
+	text-decoration: none;
+    color:white;
+    display: block;
+    padding: 14px 16px;
+}
+ul {
+    padding: 20;
+    margin: 20;
+    background-color: #3399ff;
+    overflow: hidden;
+
+}
+li a:hover
+{
+	background-color: #80d4ff;
+}
+.alpha
+{
+	padding: 5px;
+}
+.firstrow {
+    font-family: 'Kaushan Script', cursive;
+    color: darkblue;
+}
+#foot{
+	background:#3399ff ;
+    margin-top: 1px;
+    width:100%;
+    height: 20%;
+}
+footer li
+{
+display: inline;
+text-decoration: none;
+}
+#icons{
+margin-left: 650px;
+color: white;
+}

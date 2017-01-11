@@ -1,0 +1,42 @@
+body{
+	font-family: sans-serif;
+}
+.head
+{
+	margin:2px;
+	padding:20px;
+	
+}
+h1
+{
+    font-size: 60px;
+	color:#666;
+	text-shadow:10px 5px 10px #3399ff;
+	
+}
+li{
+
+	display:inline;
+	padding-right: 10px;
+	float:right;
+
+}
+li a{
+	text-decoration: none;
+	display: block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+   
+}
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: #3399ff;
+    overflow: hidden;
+
+}
+li a:hover
+{
+	background-color: #80d4ff;
+}
